@@ -1,0 +1,75 @@
+{% extends "layoutsite.html" %}
+{% block body %}
+<div class="jumbotron">
+<strong><h3>İletişim</h3></strong>
+  <!-- Container (Contact Section) -->
+<div class="w3-content w3-container w3-padding-64" id="contact">
+    <h3 class="w3-center">Nerede Çalışıyorum</h3>
+    <p class="w3-center"><em>Geri bildirimleriniz bizim için önemli!</em></p>
+  
+    <div class="w3-row w3-padding-32 w3-section">
+      <div class="w3-col m4 w3-container">
+        <!-- Add Google Maps -->
+        <div id="googleMap" class="w3-round-large w3-greyscale" style="width:100%;height:275px;"></div>
+      </div>
+      <div class="w3-col m8 w3-panel">
+        <div class="w3-large w3-margin-bottom">
+          <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Ankara,TR<br>          
+          
+        </div>
+        <p>Bir fincan  <i class="fa fa-coffee"></i> kahve  için veya bize bir not bırakmak için:</p>
+        <form method="POST" action="https://formspree.io/elmas471@gmail.com">
+          <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
+            <div class="w3-half">
+              <input class="w3-input w3-border" type="text" placeholder="İsim Soyisim" required="" name="Name">
+          </div>
+          <div class="w3-half">
+            <input class="w3-input w3-border" type="email" name="email" placeholder="Email adresiniz">
+          </div>
+
+          </div>
+          <textarea name="message" class="w3-input w3-border" type="text" placeholder="Mesajınızı buraya yazınız..."></textarea>
+          <button class="w3-button w3-black w3-right w3-section" type="submit"><i class="fa fa-paper-plane"></i> Mesajı İlet
+          </button>
+          <input type="hidden" name="_next" value="/"> 
+        </form>
+         
+      
+    </div>
+  </div>
+  
+   
+
+
+</div>
+
+</div>
+
+<!-- Add Google Maps -->
+<script>
+    function myMap()
+    {
+      myCenter=new google.maps.LatLng(39.9348356, 32.8535562);
+      var mapOptions= {
+        center:myCenter,
+        zoom:12, scrollwheel: false, draggable: false,
+        mapTypeId:google.maps.MapTypeId.ROADMAP
+      };
+      var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
+    
+      var marker = new google.maps.Marker({
+        position: myCenter,
+      });
+      marker.setMap(map);
+    }
+  </script>  
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCbJTbBVdANh1icYNhrRsJFZIINlqiaRmQ&callback=myMap"></script>    
+
+
+    <style>
+        body{
+          background-color: #398B93;}
+        
+      </style>
+
+{% endblock body %}

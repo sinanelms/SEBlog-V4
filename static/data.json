@@ -1,0 +1,4146 @@
+﻿[
+        {
+            "yerler": "Kemaliye",
+            "cikan": "173",
+            "devreden": "143",
+            "deger": "55",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Nazımiye",
+            "cikan": "212",
+            "devreden": "146",
+            "deger": "59",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Keban",
+            "cikan": "263",
+            "devreden": "161",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bahçesaray",
+            "cikan": "306",
+            "devreden": "122",
+            "deger": "71",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Kemah",
+            "cikan": "244",
+            "devreden": "222",
+            "deger": "52",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çayırlı",
+            "cikan": "327",
+            "devreden": "162",
+            "deger": "67",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Posof",
+            "cikan": "263",
+            "devreden": "231",
+            "deger": "53",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Gündoğmuş",
+            "cikan": "307",
+            "devreden": "192",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çemişgezek",
+            "cikan": "259",
+            "devreden": "261",
+            "deger": "50",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Arapgir",
+            "cikan": "388",
+            "devreden": "151",
+            "deger": "72",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Mesudiye",
+            "cikan": "402",
+            "devreden": "172",
+            "deger": "70",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Sulakyurt",
+            "cikan": "339",
+            "devreden": "242",
+            "deger": "58",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Küre",
+            "cikan": "391",
+            "devreden": "195",
+            "deger": "67",
+            "bolge": "4"
+        },
+        {
+            "yerler": "İliç",
+            "cikan": "459",
+            "devreden": "147",
+            "deger": "76",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Çüngüş",
+            "cikan": "367",
+            "devreden": "250",
+            "deger": "59",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Pülümür",
+            "cikan": "207",
+            "devreden": "418",
+            "deger": "33",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Keles",
+            "cikan": "507",
+            "devreden": "124",
+            "deger": "80",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Delice",
+            "cikan": "432",
+            "devreden": "216",
+            "deger": "67",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Gürgentepe",
+            "cikan": "485",
+            "devreden": "164",
+            "deger": "75",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Tonya",
+            "cikan": "414",
+            "devreden": "235",
+            "deger": "64",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Gerger",
+            "cikan": "386",
+            "devreden": "265",
+            "deger": "59",
+            "bolge": "5"
+        },
+        {
+            "yerler": "İmranlı",
+            "cikan": "383",
+            "devreden": "276",
+            "deger": "58",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Mutki",
+            "cikan": "477",
+            "devreden": "187",
+            "deger": "72",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Demirköy",
+            "cikan": "397",
+            "devreden": "271",
+            "deger": "59",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çamardı",
+            "cikan": "423",
+            "devreden": "260",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bayat(Çorum)",
+            "cikan": "580",
+            "devreden": "112",
+            "deger": "84",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Sarıveliler",
+            "cikan": "429",
+            "devreden": "275",
+            "deger": "61",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Çatak",
+            "cikan": "355",
+            "devreden": "361",
+            "deger": "50",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Savur",
+            "cikan": "443",
+            "devreden": "287",
+            "deger": "61",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Sütçüler",
+            "cikan": "497",
+            "devreden": "264",
+            "deger": "65",
+            "bolge": "5"
+        },
+        {
+            "yerler": "İspir",
+            "cikan": "502",
+            "devreden": "270",
+            "deger": "65",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Mihalıççık",
+            "cikan": "517",
+            "devreden": "256",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Tufanbeyli",
+            "cikan": "535",
+            "devreden": "242",
+            "deger": "69",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Çameli",
+            "cikan": "491",
+            "devreden": "290",
+            "deger": "63",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Aladağ",
+            "cikan": "524",
+            "devreden": "263",
+            "deger": "67",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Hozat",
+            "cikan": "536",
+            "devreden": "261",
+            "deger": "67",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Hadim",
+            "cikan": "608",
+            "devreden": "196",
+            "deger": "76",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Arpaçay",
+            "cikan": "485",
+            "devreden": "324",
+            "deger": "60",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Çat",
+            "cikan": "501",
+            "devreden": "318",
+            "deger": "61",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Mazgirt",
+            "cikan": "455",
+            "devreden": "381",
+            "deger": "54",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Şiran",
+            "cikan": "573",
+            "devreden": "265",
+            "deger": "68",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Sarız",
+            "cikan": "591",
+            "devreden": "251",
+            "deger": "70",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Senirkent",
+            "cikan": "412",
+            "devreden": "434",
+            "deger": "49",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Alucra",
+            "cikan": "521",
+            "devreden": "326",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çayıralan",
+            "cikan": "291",
+            "devreden": "557",
+            "deger": "34",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Azdavay",
+            "cikan": "476",
+            "devreden": "377",
+            "deger": "56",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kiğı",
+            "cikan": "430",
+            "devreden": "424",
+            "deger": "50",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Ilgaz",
+            "cikan": "522",
+            "devreden": "336",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Almus",
+            "cikan": "601",
+            "devreden": "259",
+            "deger": "70",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kargı",
+            "cikan": "582",
+            "devreden": "279",
+            "deger": "68",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Şefaatli",
+            "cikan": "548",
+            "devreden": "313",
+            "deger": "64",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Ladik",
+            "cikan": "616",
+            "devreden": "252",
+            "deger": "71",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Türkeli",
+            "cikan": "506",
+            "devreden": "375",
+            "deger": "57",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Refahiye",
+            "cikan": "672",
+            "devreden": "247",
+            "deger": "73",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Tortum",
+            "cikan": "670",
+            "devreden": "249",
+            "deger": "73",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Pertek",
+            "cikan": "538",
+            "devreden": "385",
+            "deger": "58",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Taşlıçay",
+            "cikan": "611",
+            "devreden": "316",
+            "deger": "66",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Koyulhisar",
+            "cikan": "520",
+            "devreden": "414",
+            "deger": "56",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Pütürge",
+            "cikan": "467",
+            "devreden": "470",
+            "deger": "50",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Ovacık(Tunceli)",
+            "cikan": "287",
+            "devreden": "667",
+            "deger": "30",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Adilcevaz",
+            "cikan": "551",
+            "devreden": "408",
+            "deger": "57",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Mengen",
+            "cikan": "746",
+            "devreden": "228",
+            "deger": "77",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hizan",
+            "cikan": "683",
+            "devreden": "300",
+            "deger": "69",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Digor",
+            "cikan": "837",
+            "devreden": "153",
+            "deger": "85",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Göynük",
+            "cikan": "671",
+            "devreden": "325",
+            "deger": "67",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Tercan",
+            "cikan": "701",
+            "devreden": "296",
+            "deger": "70",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Devrekani",
+            "cikan": "598",
+            "devreden": "413",
+            "deger": "59",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Şirvan",
+            "cikan": "666",
+            "devreden": "353",
+            "deger": "65",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Gercüş",
+            "cikan": "544",
+            "devreden": "476",
+            "deger": "53",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Aydıncık(Mersin)",
+            "cikan": "804",
+            "devreden": "239",
+            "deger": "77",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hacıbektaş",
+            "cikan": "683",
+            "devreden": "366",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Eskipazar",
+            "cikan": "544",
+            "devreden": "513",
+            "deger": "51",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kurşunlu",
+            "cikan": "541",
+            "devreden": "521",
+            "deger": "51",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çerkeş",
+            "cikan": "750",
+            "devreden": "328",
+            "deger": "70",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Selim",
+            "cikan": "724",
+            "devreden": "370",
+            "deger": "66",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Artova",
+            "cikan": "829",
+            "devreden": "269",
+            "deger": "76",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Doğanhisar",
+            "cikan": "702",
+            "devreden": "397",
+            "deger": "64",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Altıntaş",
+            "cikan": "725",
+            "devreden": "394",
+            "deger": "65",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Aşkale",
+            "cikan": "728",
+            "devreden": "391",
+            "deger": "65",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Yığılca",
+            "cikan": "695",
+            "devreden": "428",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Gökçeada",
+            "cikan": "846",
+            "devreden": "281",
+            "deger": "75",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Şenkaya",
+            "cikan": "410",
+            "devreden": "718",
+            "deger": "36",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Pınarhisar",
+            "cikan": "792",
+            "devreden": "347",
+            "deger": "70",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Divriği",
+            "cikan": "846",
+            "devreden": "294",
+            "deger": "74",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Durağan",
+            "cikan": "807",
+            "devreden": "333",
+            "deger": "71",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Ömerli",
+            "cikan": "814",
+            "devreden": "330",
+            "deger": "71",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Şebinkarahisar",
+            "cikan": "787",
+            "devreden": "359",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sason",
+            "cikan": "734",
+            "devreden": "416",
+            "deger": "64",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Mudurnu",
+            "cikan": "810",
+            "devreden": "352",
+            "deger": "70",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Savaştepe",
+            "cikan": "753",
+            "devreden": "412",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Selendi",
+            "cikan": "735",
+            "devreden": "450",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Torul",
+            "cikan": "792",
+            "devreden": "409",
+            "deger": "66",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Eğil",
+            "cikan": "696",
+            "devreden": "512",
+            "deger": "58",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Manyas",
+            "cikan": "667",
+            "devreden": "546",
+            "deger": "55",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Karacasu",
+            "cikan": "729",
+            "devreden": "485",
+            "deger": "60",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Karayazı",
+            "cikan": "845",
+            "devreden": "369",
+            "deger": "70",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Kumru",
+            "cikan": "820",
+            "devreden": "402",
+            "deger": "67",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Tutak",
+            "cikan": "868",
+            "devreden": "362",
+            "deger": "71",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Derinkuyu",
+            "cikan": "792",
+            "devreden": "440",
+            "deger": "64",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Dereli",
+            "cikan": "794",
+            "devreden": "448",
+            "deger": "64",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Yenice(Karabük)",
+            "cikan": "887",
+            "devreden": "361",
+            "deger": "71",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bozkır",
+            "cikan": "855",
+            "devreden": "418",
+            "deger": "67",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Korgan",
+            "cikan": "661",
+            "devreden": "612",
+            "deger": "52",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Gördes",
+            "cikan": "700",
+            "devreden": "585",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Yeşilova",
+            "cikan": "798",
+            "devreden": "491",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Andırın",
+            "cikan": "859",
+            "devreden": "437",
+            "deger": "66",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Tomarza",
+            "cikan": "762",
+            "devreden": "535",
+            "deger": "59",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Hanak",
+            "cikan": "824",
+            "devreden": "481",
+            "deger": "63",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Baykan",
+            "cikan": "882",
+            "devreden": "435",
+            "deger": "67",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Maden",
+            "cikan": "589",
+            "devreden": "729",
+            "deger": "45",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Solhan",
+            "cikan": "907",
+            "devreden": "421",
+            "deger": "68",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Beylikova",
+            "cikan": "789",
+            "devreden": "541",
+            "deger": "59",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Beytüşşebap",
+            "cikan": "536",
+            "devreden": "796",
+            "deger": "40",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Demirci",
+            "cikan": "851",
+            "devreden": "483",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Dargeçit",
+            "cikan": "713",
+            "devreden": "623",
+            "deger": "53",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Cide",
+            "cikan": "907",
+            "devreden": "434",
+            "deger": "68",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Mazıdağı",
+            "cikan": "770",
+            "devreden": "575",
+            "deger": "57",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Şavşat",
+            "cikan": "929",
+            "devreden": "421",
+            "deger": "69",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Marmara",
+            "cikan": "651",
+            "devreden": "700",
+            "deger": "48",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çiftlik",
+            "cikan": "1006",
+            "devreden": "367",
+            "deger": "73",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Gerze",
+            "cikan": "1073",
+            "devreden": "305",
+            "deger": "78",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Eleşkirt",
+            "cikan": "896",
+            "devreden": "494",
+            "deger": "64",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Karaisalı",
+            "cikan": "705",
+            "devreden": "685",
+            "deger": "51",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Feke",
+            "cikan": "596",
+            "devreden": "806",
+            "deger": "43",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Pervari",
+            "cikan": "880",
+            "devreden": "522",
+            "deger": "63",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Kozaklı",
+            "cikan": "937",
+            "devreden": "477",
+            "deger": "66",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Maçka",
+            "cikan": "891",
+            "devreden": "528",
+            "deger": "63",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sarıoğlan",
+            "cikan": "1116",
+            "devreden": "305",
+            "deger": "79",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Hekimhan",
+            "cikan": "714",
+            "devreden": "708",
+            "deger": "50",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Yenice(Çanakkale)",
+            "cikan": "784",
+            "devreden": "652",
+            "deger": "55",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Dursunbey",
+            "cikan": "1065",
+            "devreden": "376",
+            "deger": "74",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Palu",
+            "cikan": "805",
+            "devreden": "636",
+            "deger": "56",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Eskil",
+            "cikan": "1079",
+            "devreden": "368",
+            "deger": "75",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Keskin",
+            "cikan": "969",
+            "devreden": "485",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Yeşilhisar",
+            "cikan": "676",
+            "devreden": "780",
+            "deger": "46",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Taşova",
+            "cikan": "1061",
+            "devreden": "417",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gürün",
+            "cikan": "919",
+            "devreden": "574",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Saray(Van)",
+            "cikan": "784",
+            "devreden": "725",
+            "deger": "52",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Araban",
+            "cikan": "802",
+            "devreden": "718",
+            "deger": "53",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Zara",
+            "cikan": "1100",
+            "devreden": "421",
+            "deger": "72",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Şabanözü",
+            "cikan": "989",
+            "devreden": "537",
+            "deger": "65",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Akkuş",
+            "cikan": "965",
+            "devreden": "562",
+            "deger": "63",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Mucur",
+            "cikan": "981",
+            "devreden": "554",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sarayönü",
+            "cikan": "984",
+            "devreden": "551",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Eruh",
+            "cikan": "1003",
+            "devreden": "541",
+            "deger": "65",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Hazro",
+            "cikan": "1111",
+            "devreden": "433",
+            "deger": "72",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Tuzluca",
+            "cikan": "1032",
+            "devreden": "524",
+            "deger": "66",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Kaynarca",
+            "cikan": "1124",
+            "devreden": "436",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kale(Denizli)",
+            "cikan": "1050",
+            "devreden": "521",
+            "deger": "67",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kalecik",
+            "cikan": "956",
+            "devreden": "627",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Amasra",
+            "cikan": "1031",
+            "devreden": "563",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Karlıova",
+            "cikan": "682",
+            "devreden": "916",
+            "deger": "43",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Dicle",
+            "cikan": "791",
+            "devreden": "812",
+            "deger": "49",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Bahçe",
+            "cikan": "759",
+            "devreden": "846",
+            "deger": "47",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Arhavi",
+            "cikan": "972",
+            "devreden": "642",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çaykara",
+            "cikan": "1090",
+            "devreden": "524",
+            "deger": "68",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Enez",
+            "cikan": "1061",
+            "devreden": "559",
+            "deger": "65",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Vize",
+            "cikan": "1022",
+            "devreden": "601",
+            "deger": "63",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Keçiborlu",
+            "cikan": "899",
+            "devreden": "726",
+            "deger": "55",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Aybastı",
+            "cikan": "973",
+            "devreden": "658",
+            "deger": "60",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kangal",
+            "cikan": "918",
+            "devreden": "719",
+            "deger": "56",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Gemerek",
+            "cikan": "1118",
+            "devreden": "522",
+            "deger": "68",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Reşadiye",
+            "cikan": "1232",
+            "devreden": "409",
+            "deger": "75",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Osmaneli",
+            "cikan": "1051",
+            "devreden": "598",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ulus",
+            "cikan": "962",
+            "devreden": "695",
+            "deger": "58",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Yıldızeli",
+            "cikan": "1030",
+            "devreden": "629",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bala",
+            "cikan": "717",
+            "devreden": "946",
+            "deger": "43",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gevaş",
+            "cikan": "1159",
+            "devreden": "510",
+            "deger": "69",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Ayancık",
+            "cikan": "1198",
+            "devreden": "473",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "İmamoğlu",
+            "cikan": "1028",
+            "devreden": "644",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gülşehir",
+            "cikan": "1151",
+            "devreden": "521",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sarıkaya",
+            "cikan": "821",
+            "devreden": "853",
+            "deger": "49",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Tekman",
+            "cikan": "911",
+            "devreden": "770",
+            "deger": "54",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Akçadağ",
+            "cikan": "1157",
+            "devreden": "531",
+            "deger": "69",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kepsut",
+            "cikan": "1296",
+            "devreden": "397",
+            "deger": "77",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çardak",
+            "cikan": "975",
+            "devreden": "725",
+            "deger": "57",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Karaburun",
+            "cikan": "721",
+            "devreden": "980",
+            "deger": "42",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Darende",
+            "cikan": "803",
+            "devreden": "901",
+            "deger": "47",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Gürpınar",
+            "cikan": "1109",
+            "devreden": "600",
+            "deger": "65",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Yusufeli",
+            "cikan": "1288",
+            "devreden": "423",
+            "deger": "75",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Gölköy",
+            "cikan": "1126",
+            "devreden": "591",
+            "deger": "66",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Perşembe",
+            "cikan": "1259",
+            "devreden": "462",
+            "deger": "73",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Orhaneli",
+            "cikan": "1209",
+            "devreden": "517",
+            "deger": "70",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gölpazarı",
+            "cikan": "1181",
+            "devreden": "550",
+            "deger": "68",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çekerek",
+            "cikan": "1348",
+            "devreden": "398",
+            "deger": "77",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Sürmene",
+            "cikan": "1131",
+            "devreden": "642",
+            "deger": "64",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Göle",
+            "cikan": "1258",
+            "devreden": "573",
+            "deger": "69",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Şuhut",
+            "cikan": "1289",
+            "devreden": "546",
+            "deger": "70",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Özalp",
+            "cikan": "871",
+            "devreden": "968",
+            "deger": "47",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Horasan",
+            "cikan": "1122",
+            "devreden": "721",
+            "deger": "61",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kalkandere",
+            "cikan": "1380",
+            "devreden": "473",
+            "deger": "74",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Yumurtalık",
+            "cikan": "1201",
+            "devreden": "657",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Şarkikaraağaç",
+            "cikan": "1337",
+            "devreden": "527",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gölbaşı(Adıyaman)",
+            "cikan": "1270",
+            "devreden": "599",
+            "deger": "68",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çermik",
+            "cikan": "1150",
+            "devreden": "735",
+            "deger": "61",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Kelkit",
+            "cikan": "1058",
+            "devreden": "838",
+            "deger": "56",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Akseki",
+            "cikan": "900",
+            "devreden": "997",
+            "deger": "47",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ulukışla",
+            "cikan": "1229",
+            "devreden": "687",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Suşehri",
+            "cikan": "946",
+            "devreden": "972",
+            "deger": "49",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çukurca",
+            "cikan": "1037",
+            "devreden": "883",
+            "deger": "54",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Sındırgı",
+            "cikan": "1345",
+            "devreden": "587",
+            "deger": "70",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kadınhanı",
+            "cikan": "1193",
+            "devreden": "740",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Lapseki",
+            "cikan": "1077",
+            "devreden": "868",
+            "deger": "55",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Pasinler",
+            "cikan": "1353",
+            "devreden": "595",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Dazkırı",
+            "cikan": "1115",
+            "devreden": "843",
+            "deger": "57",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Nallıhan",
+            "cikan": "1235",
+            "devreden": "740",
+            "deger": "63",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Derik",
+            "cikan": "1223",
+            "devreden": "758",
+            "deger": "62",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Çayeli",
+            "cikan": "1302",
+            "devreden": "683",
+            "deger": "66",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Hani",
+            "cikan": "901",
+            "devreden": "1085",
+            "deger": "45",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Bayramiç",
+            "cikan": "1081",
+            "devreden": "915",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Alaca",
+            "cikan": "1248",
+            "devreden": "757",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Karakoçan",
+            "cikan": "1017",
+            "devreden": "993",
+            "deger": "51",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Emet",
+            "cikan": "1300",
+            "devreden": "714",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Cihanbeyli",
+            "cikan": "1235",
+            "devreden": "798",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Taşköprü",
+            "cikan": "1401",
+            "devreden": "639",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Tefenni",
+            "cikan": "1662",
+            "devreden": "378",
+            "deger": "81",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Aralık",
+            "cikan": "1222",
+            "devreden": "825",
+            "deger": "60",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Borçka",
+            "cikan": "1478",
+            "devreden": "570",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Araç",
+            "cikan": "1181",
+            "devreden": "893",
+            "deger": "57",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Demre",
+            "cikan": "1440",
+            "devreden": "657",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Halfeti",
+            "cikan": "1282",
+            "devreden": "836",
+            "deger": "61",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Eğirdir",
+            "cikan": "1305",
+            "devreden": "830",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Diyadin",
+            "cikan": "839",
+            "devreden": "1297",
+            "deger": "39",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Ahlat",
+            "cikan": "965",
+            "devreden": "1183",
+            "deger": "45",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kağızman",
+            "cikan": "1549",
+            "devreden": "604",
+            "deger": "72",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kozluk",
+            "cikan": "1234",
+            "devreden": "920",
+            "deger": "57",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Buldan",
+            "cikan": "1229",
+            "devreden": "926",
+            "deger": "57",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gümüşhacıköy",
+            "cikan": "1434",
+            "devreden": "727",
+            "deger": "66",
+            "bolge": "4"
+        },
+        {
+            "yerler": "İncesu",
+            "cikan": "1165",
+            "devreden": "1001",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gülnar",
+            "cikan": "996",
+            "devreden": "1174",
+            "deger": "46",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kiraz",
+            "cikan": "1319",
+            "devreden": "853",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gökçebey",
+            "cikan": "1495",
+            "devreden": "683",
+            "deger": "69",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kaman",
+            "cikan": "1357",
+            "devreden": "827",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kulp",
+            "cikan": "1495",
+            "devreden": "697",
+            "deger": "68",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Ferizli",
+            "cikan": "1508",
+            "devreden": "687",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Varto",
+            "cikan": "1016",
+            "devreden": "1202",
+            "deger": "46",
+            "bolge": "5"
+        },
+        {
+            "yerler": "İskilip",
+            "cikan": "1605",
+            "devreden": "623",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kocaali",
+            "cikan": "1314",
+            "devreden": "914",
+            "deger": "59",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Yahyalı",
+            "cikan": "1198",
+            "devreden": "1044",
+            "deger": "53",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Göksun",
+            "cikan": "1503",
+            "devreden": "744",
+            "deger": "67",
+            "bolge": "4"
+        },
+        {
+            "yerler": "İpsala",
+            "cikan": "1543",
+            "devreden": "728",
+            "deger": "68",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ortaköy(Aksaray)",
+            "cikan": "1323",
+            "devreden": "958",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çal",
+            "cikan": "1691",
+            "devreden": "594",
+            "deger": "74",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Adalar",
+            "cikan": "1391",
+            "devreden": "908",
+            "deger": "61",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Yunak",
+            "cikan": "1324",
+            "devreden": "1002",
+            "deger": "57",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bozova",
+            "cikan": "1332",
+            "devreden": "1005",
+            "deger": "57",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Araklı",
+            "cikan": "1097",
+            "devreden": "1241",
+            "deger": "47",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hınıs",
+            "cikan": "1223",
+            "devreden": "1124",
+            "deger": "52",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Havza",
+            "cikan": "1408",
+            "devreden": "954",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kovancılar",
+            "cikan": "1359",
+            "devreden": "1003",
+            "deger": "58",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Pamukova",
+            "cikan": "1327",
+            "devreden": "1037",
+            "deger": "56",
+            "bolge": "3"
+        },
+        {
+            "yerler": "İvrindi",
+            "cikan": "1509",
+            "devreden": "861",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hilvan",
+            "cikan": "1319",
+            "devreden": "1057",
+            "deger": "56",
+            "bolge": "5"
+        },
+        {
+            "yerler": "İscehisar",
+            "cikan": "1837",
+            "devreden": "547",
+            "deger": "77",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kınık",
+            "cikan": "1408",
+            "devreden": "985",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sinanpaşa",
+            "cikan": "1587",
+            "devreden": "834",
+            "deger": "66",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Tirebolu",
+            "cikan": "1657",
+            "devreden": "768",
+            "deger": "68",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kavak",
+            "cikan": "1750",
+            "devreden": "682",
+            "deger": "72",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Şarkışla",
+            "cikan": "1348",
+            "devreden": "1093",
+            "deger": "55",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Pozantı",
+            "cikan": "1206",
+            "devreden": "1255",
+            "deger": "49",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bozdoğan",
+            "cikan": "1599",
+            "devreden": "874",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Haymana",
+            "cikan": "1077",
+            "devreden": "1397",
+            "deger": "44",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Söğüt",
+            "cikan": "1293",
+            "devreden": "1188",
+            "deger": "52",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Muradiye",
+            "cikan": "936",
+            "devreden": "1562",
+            "deger": "37",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Kula",
+            "cikan": "1636",
+            "devreden": "863",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Oltu",
+            "cikan": "1475",
+            "devreden": "1025",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hayrabolu",
+            "cikan": "1614",
+            "devreden": "892",
+            "deger": "64",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kırkağaç",
+            "cikan": "1239",
+            "devreden": "1267",
+            "deger": "49",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Uludere",
+            "cikan": "1018",
+            "devreden": "1496",
+            "deger": "40",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Ermenek",
+            "cikan": "1752",
+            "devreden": "779",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Eşme",
+            "cikan": "1349",
+            "devreden": "1187",
+            "deger": "53",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Alaçam",
+            "cikan": "1718",
+            "devreden": "833",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sarıkamış",
+            "cikan": "1850",
+            "devreden": "733",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sivrihisar",
+            "cikan": "1640",
+            "devreden": "969",
+            "deger": "63",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sarıgöl",
+            "cikan": "1789",
+            "devreden": "823",
+            "deger": "68",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bigadiç",
+            "cikan": "1764",
+            "devreden": "859",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Doğanşehir",
+            "cikan": "1266",
+            "devreden": "1360",
+            "deger": "48",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çan",
+            "cikan": "1588",
+            "devreden": "1074",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Akdağmadeni",
+            "cikan": "1756",
+            "devreden": "926",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Muratlı",
+            "cikan": "1727",
+            "devreden": "975",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bünyan",
+            "cikan": "1602",
+            "devreden": "1121",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Boyabat",
+            "cikan": "1941",
+            "devreden": "797",
+            "deger": "71",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sivaslı",
+            "cikan": "1453",
+            "devreden": "1287",
+            "deger": "53",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Karataş",
+            "cikan": "1164",
+            "devreden": "1622",
+            "deger": "42",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gediz",
+            "cikan": "1850",
+            "devreden": "941",
+            "deger": "66",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Datça",
+            "cikan": "1599",
+            "devreden": "1197",
+            "deger": "57",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Alaplı",
+            "cikan": "1687",
+            "devreden": "1120",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hassa",
+            "cikan": "1676",
+            "devreden": "1134",
+            "deger": "60",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Pınarbaşı(Kayseri)",
+            "cikan": "2041",
+            "devreden": "783",
+            "deger": "72",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Tosya",
+            "cikan": "1560",
+            "devreden": "1289",
+            "deger": "55",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Güroymak",
+            "cikan": "1237",
+            "devreden": "1616",
+            "deger": "43",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Genç",
+            "cikan": "952",
+            "devreden": "1991",
+            "deger": "32",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Besni",
+            "cikan": "1754",
+            "devreden": "1212",
+            "deger": "59",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Köyceğiz",
+            "cikan": "1829",
+            "devreden": "1178",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kızılcahamam",
+            "cikan": "1907",
+            "devreden": "1108",
+            "deger": "63",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Harran",
+            "cikan": "1400",
+            "devreden": "1631",
+            "deger": "46",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Suluova",
+            "cikan": "2205",
+            "devreden": "859",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "İznik",
+            "cikan": "1696",
+            "devreden": "1374",
+            "deger": "55",
+            "bolge": "2"
+        },
+        {
+            "yerler": "İdil",
+            "cikan": "1056",
+            "devreden": "2047",
+            "deger": "34",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Espiye",
+            "cikan": "2316",
+            "devreden": "804",
+            "deger": "74",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Yerköy",
+            "cikan": "2129",
+            "devreden": "1008",
+            "deger": "68",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Tavas",
+            "cikan": "2151",
+            "devreden": "988",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Şarköy",
+            "cikan": "1941",
+            "devreden": "1213",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çifteler",
+            "cikan": "2103",
+            "devreden": "1100",
+            "deger": "66",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Banaz",
+            "cikan": "1750",
+            "devreden": "1456",
+            "deger": "55",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Osmancık",
+            "cikan": "1932",
+            "devreden": "1327",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kurtalan",
+            "cikan": "1225",
+            "devreden": "2070",
+            "deger": "37",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çaldıran",
+            "cikan": "1586",
+            "devreden": "1720",
+            "deger": "48",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Ürgüp",
+            "cikan": "2231",
+            "devreden": "1079",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Nurdağı",
+            "cikan": "2048",
+            "devreden": "1263",
+            "deger": "62",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Malazgirt",
+            "cikan": "1937",
+            "devreden": "1459",
+            "deger": "57",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Of",
+            "cikan": "2295",
+            "devreden": "1111",
+            "deger": "67",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Altınözü",
+            "cikan": "2083",
+            "devreden": "1326",
+            "deger": "61",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Çınar",
+            "cikan": "2443",
+            "devreden": "1015",
+            "deger": "71",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Başkale",
+            "cikan": "1733",
+            "devreden": "1728",
+            "deger": "50",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Boğazlıyan",
+            "cikan": "1865",
+            "devreden": "1677",
+            "deger": "53",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ayvacık",
+            "cikan": "1543",
+            "devreden": "2088",
+            "deger": "42",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kulu",
+            "cikan": "1997",
+            "devreden": "1727",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Elmalı",
+            "cikan": "2393",
+            "devreden": "1349",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Geyve",
+            "cikan": "2101",
+            "devreden": "1658",
+            "deger": "56",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Erdek",
+            "cikan": "2143",
+            "devreden": "1628",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Görele",
+            "cikan": "2029",
+            "devreden": "1770",
+            "deger": "53",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Vakfıkebir",
+            "cikan": "2704",
+            "devreden": "1099",
+            "deger": "71",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Bolvadin",
+            "cikan": "2117",
+            "devreden": "1691",
+            "deger": "56",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Avanos",
+            "cikan": "2037",
+            "devreden": "1786",
+            "deger": "53",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Akyurt",
+            "cikan": "2407",
+            "devreden": "1428",
+            "deger": "63",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gölhisar",
+            "cikan": "1570",
+            "devreden": "2271",
+            "deger": "41",
+            "bolge": "3"
+        },
+        {
+            "yerler": "İnebolu",
+            "cikan": "2444",
+            "devreden": "1405",
+            "deger": "63",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Erzin",
+            "cikan": "2015",
+            "devreden": "1891",
+            "deger": "52",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Türkoğlu",
+            "cikan": "1989",
+            "devreden": "1937",
+            "deger": "51",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Saruhanlı",
+            "cikan": "2565",
+            "devreden": "1371",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sungurlu",
+            "cikan": "2450",
+            "devreden": "1502",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ilgın",
+            "cikan": "1949",
+            "devreden": "2014",
+            "deger": "49",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Akçakoca",
+            "cikan": "2081",
+            "devreden": "1962",
+            "deger": "51",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Düziçi",
+            "cikan": "2968",
+            "devreden": "1104",
+            "deger": "73",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gerede",
+            "cikan": "2198",
+            "devreden": "1875",
+            "deger": "54",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Çay",
+            "cikan": "2682",
+            "devreden": "1395",
+            "deger": "66",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Devrek",
+            "cikan": "2949",
+            "devreden": "1134",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Dinar",
+            "cikan": "2341",
+            "devreden": "1771",
+            "deger": "57",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Emirdağ",
+            "cikan": "1983",
+            "devreden": "2136",
+            "deger": "48",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Artvin",
+            "cikan": "2846",
+            "devreden": "1303",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ezine",
+            "cikan": "2835",
+            "devreden": "1315",
+            "deger": "68",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Susurluk",
+            "cikan": "2420",
+            "devreden": "1732",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Develi",
+            "cikan": "1805",
+            "devreden": "2419",
+            "deger": "43",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Zile",
+            "cikan": "2533",
+            "devreden": "1741",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Safranbolu",
+            "cikan": "2300",
+            "devreden": "2019",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Yayladağı",
+            "cikan": "1188",
+            "devreden": "3147",
+            "deger": "27",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bulanık",
+            "cikan": "1751",
+            "devreden": "2589",
+            "deger": "40",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bayındır",
+            "cikan": "2313",
+            "devreden": "2071",
+            "deger": "53",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Yenişehir",
+            "cikan": "2780",
+            "devreden": "1612",
+            "deger": "63",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Gümüşhane",
+            "cikan": "3189",
+            "devreden": "1233",
+            "deger": "72",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Malkara",
+            "cikan": "2905",
+            "devreden": "1536",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Yalvaç",
+            "cikan": "2408",
+            "devreden": "2034",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çumra",
+            "cikan": "2728",
+            "devreden": "1739",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Babaeski",
+            "cikan": "2961",
+            "devreden": "1507",
+            "deger": "66",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Çine",
+            "cikan": "2586",
+            "devreden": "1885",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Karapınar",
+            "cikan": "2649",
+            "devreden": "1841",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çivril",
+            "cikan": "2802",
+            "devreden": "1696",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Simav",
+            "cikan": "2648",
+            "devreden": "1856",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Marmaraereğlisi",
+            "cikan": "2230",
+            "devreden": "2441",
+            "deger": "48",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Elmadağ",
+            "cikan": "2782",
+            "devreden": "1932",
+            "deger": "59",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Karamürsel",
+            "cikan": "2208",
+            "devreden": "2530",
+            "deger": "47",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Sapanca",
+            "cikan": "2499",
+            "devreden": "2239",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Yatağan",
+            "cikan": "3185",
+            "devreden": "1553",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Samandağ",
+            "cikan": "2757",
+            "devreden": "1986",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Beypazarı",
+            "cikan": "2224",
+            "devreden": "2569",
+            "deger": "46",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Vezirköprü",
+            "cikan": "3233",
+            "devreden": "1620",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gazipaşa",
+            "cikan": "3056",
+            "devreden": "1817",
+            "deger": "63",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Saray(Tekirdağ)",
+            "cikan": "2278",
+            "devreden": "2612",
+            "deger": "47",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Şile",
+            "cikan": "2057",
+            "devreden": "2865",
+            "deger": "42",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Korkuteli",
+            "cikan": "2952",
+            "devreden": "2008",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sarayköy",
+            "cikan": "3514",
+            "devreden": "1486",
+            "deger": "70",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Bayburt",
+            "cikan": "3262",
+            "devreden": "1779",
+            "deger": "65",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Niksar",
+            "cikan": "3189",
+            "devreden": "1930",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Terme",
+            "cikan": "3053",
+            "devreden": "2117",
+            "deger": "59",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Sorgun",
+            "cikan": "2723",
+            "devreden": "2536",
+            "deger": "52",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Lice",
+            "cikan": "1281",
+            "devreden": "3987",
+            "deger": "24",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Acıpayam",
+            "cikan": "2965",
+            "devreden": "2434",
+            "deger": "55",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Şereflikoçhisar",
+            "cikan": "2937",
+            "devreden": "2479",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hopa",
+            "cikan": "2979",
+            "devreden": "2463",
+            "deger": "55",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ardahan",
+            "cikan": "3249",
+            "devreden": "2325",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gelibolu",
+            "cikan": "3486",
+            "devreden": "2094",
+            "deger": "62",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Sandıklı",
+            "cikan": "3607",
+            "devreden": "1986",
+            "deger": "64",
+            "bolge": "3"
+        },
+        {
+            "yerler": "İslahiye",
+            "cikan": "2768",
+            "devreden": "2914",
+            "deger": "49",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bulancak",
+            "cikan": "3714",
+            "devreden": "2032",
+            "deger": "65",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Bor",
+            "cikan": "3357",
+            "devreden": "2403",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Finike",
+            "cikan": "2779",
+            "devreden": "3053",
+            "deger": "48",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Biga",
+            "cikan": "3710",
+            "devreden": "2165",
+            "deger": "63",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Selçuk",
+            "cikan": "2994",
+            "devreden": "2903",
+            "deger": "51",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Çaycuma",
+            "cikan": "4101",
+            "devreden": "1868",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Afşin",
+            "cikan": "2877",
+            "devreden": "3099",
+            "deger": "48",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Foça",
+            "cikan": "3018",
+            "devreden": "2970",
+            "deger": "50",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Ceylanpınar",
+            "cikan": "2639",
+            "devreden": "3356",
+            "deger": "44",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Seydişehir",
+            "cikan": "3641",
+            "devreden": "2362",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Şemdinli",
+            "cikan": "2892",
+            "devreden": "3231",
+            "deger": "47",
+            "bolge": "5"
+        },
+        {
+            "yerler": "Beyşehir",
+            "cikan": "3924",
+            "devreden": "2260",
+            "deger": "63",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Merzifon",
+            "cikan": "4320",
+            "devreden": "1893",
+            "deger": "70",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Akçaabat",
+            "cikan": "4132",
+            "devreden": "2097",
+            "deger": "66",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Germencik",
+            "cikan": "2327",
+            "devreden": "4041",
+            "deger": "37",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Patnos",
+            "cikan": "3341",
+            "devreden": "3160",
+            "deger": "51",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Gönen(Balıkesir)",
+            "cikan": "3894",
+            "devreden": "2617",
+            "deger": "60",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kahta",
+            "cikan": "3721",
+            "devreden": "2913",
+            "deger": "56",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Pazarcık",
+            "cikan": "3243",
+            "devreden": "3428",
+            "deger": "49",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Sinop",
+            "cikan": "4293",
+            "devreden": "2404",
+            "deger": "64",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Seferihisar",
+            "cikan": "4037",
+            "devreden": "2745",
+            "deger": "60",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Erbaa",
+            "cikan": "4698",
+            "devreden": "2094",
+            "deger": "69",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Karasu",
+            "cikan": "4099",
+            "devreden": "2725",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kandıra",
+            "cikan": "3543",
+            "devreden": "3417",
+            "deger": "51",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Midyat",
+            "cikan": "4067",
+            "devreden": "2907",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Pazar(Rize)",
+            "cikan": "4096",
+            "devreden": "2880",
+            "deger": "59",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kahramankazan",
+            "cikan": "3328",
+            "devreden": "3695",
+            "deger": "47",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Akyazı",
+            "cikan": "4044",
+            "devreden": "2980",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Tunceli",
+            "cikan": "3765",
+            "devreden": "3277",
+            "deger": "53",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hendek",
+            "cikan": "4371",
+            "devreden": "2744",
+            "deger": "61",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Mut",
+            "cikan": "4428",
+            "devreden": "2761",
+            "deger": "62",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Orhangazi",
+            "cikan": "4066",
+            "devreden": "3198",
+            "deger": "56",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Uzunköprü",
+            "cikan": "4165",
+            "devreden": "3173",
+            "deger": "57",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Nusaybin",
+            "cikan": "3508",
+            "devreden": "3836",
+            "deger": "48",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bucak",
+            "cikan": "4113",
+            "devreden": "3252",
+            "deger": "56",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Tatvan",
+            "cikan": "3857",
+            "devreden": "3518",
+            "deger": "52",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Hakkari",
+            "cikan": "3840",
+            "devreden": "3668",
+            "deger": "51",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bilecik",
+            "cikan": "5004",
+            "devreden": "2595",
+            "deger": "66",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Turhal",
+            "cikan": "4555",
+            "devreden": "3083",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Silvan",
+            "cikan": "3767",
+            "devreden": "3890",
+            "deger": "49",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kaş",
+            "cikan": "4111",
+            "devreden": "3735",
+            "deger": "52",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çubuk",
+            "cikan": "4586",
+            "devreden": "3426",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Dikili",
+            "cikan": "3200",
+            "devreden": "4893",
+            "deger": "40",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kadirli",
+            "cikan": "5039",
+            "devreden": "3165",
+            "deger": "61",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Tire",
+            "cikan": "5036",
+            "devreden": "3191",
+            "deger": "61",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kumluca",
+            "cikan": "4276",
+            "devreden": "4003",
+            "deger": "52",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bozüyük",
+            "cikan": "5715",
+            "devreden": "2839",
+            "deger": "67",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Mustafakemalpaşa",
+            "cikan": "4916",
+            "devreden": "3733",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Burhaniye",
+            "cikan": "5205",
+            "devreden": "3941",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Ergani",
+            "cikan": "4076",
+            "devreden": "5082",
+            "deger": "45",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Fatsa",
+            "cikan": "6000",
+            "devreden": "3177",
+            "deger": "65",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Mudanya",
+            "cikan": "5300",
+            "devreden": "3982",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Anamur",
+            "cikan": "5851",
+            "devreden": "3446",
+            "deger": "63",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Ünye",
+            "cikan": "6584",
+            "devreden": "2779",
+            "deger": "70",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Suruç",
+            "cikan": "6127",
+            "devreden": "3259",
+            "deger": "65",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Akçakale",
+            "cikan": "4496",
+            "devreden": "5094",
+            "deger": "47",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Bergama",
+            "cikan": "4373",
+            "devreden": "5379",
+            "deger": "45",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kırıkhan",
+            "cikan": "4731",
+            "devreden": "5028",
+            "deger": "48",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Urla",
+            "cikan": "4864",
+            "devreden": "4911",
+            "deger": "50",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Yozgat",
+            "cikan": "6371",
+            "devreden": "3447",
+            "deger": "65",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Çatalca",
+            "cikan": "5145",
+            "devreden": "4797",
+            "deger": "52",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Çankırı",
+            "cikan": "6098",
+            "devreden": "3880",
+            "deger": "61",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Akşehir",
+            "cikan": "4862",
+            "devreden": "5119",
+            "deger": "49",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Alaşehir",
+            "cikan": "4815",
+            "devreden": "5230",
+            "deger": "48",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Soma",
+            "cikan": "5769",
+            "devreden": "4282",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kozan",
+            "cikan": "6177",
+            "devreden": "4161",
+            "deger": "60",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Karacabey",
+            "cikan": "6601",
+            "devreden": "4007",
+            "deger": "62",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Birecik",
+            "cikan": "5959",
+            "devreden": "4651",
+            "deger": "56",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bitlis",
+            "cikan": "5383",
+            "devreden": "5244",
+            "deger": "51",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Çeşme",
+            "cikan": "4672",
+            "devreden": "6093",
+            "deger": "43",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Erciş",
+            "cikan": "6207",
+            "devreden": "4608",
+            "deger": "57",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Tavşanlı",
+            "cikan": "7339",
+            "devreden": "3546",
+            "deger": "67",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ortaca",
+            "cikan": "6773",
+            "devreden": "4148",
+            "deger": "62",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Bismil",
+            "cikan": "5569",
+            "devreden": "5421",
+            "deger": "51",
+            "bolge": "4"
+        },
+        {
+            "yerler": "Kemer",
+            "cikan": "6256",
+            "devreden": "4760",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Silopi",
+            "cikan": "5145",
+            "devreden": "5948",
+            "deger": "46",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Keşan",
+            "cikan": "6010",
+            "devreden": "5238",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Yüksekova",
+            "cikan": "5186",
+            "devreden": "6132",
+            "deger": "46",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bafra",
+            "cikan": "7374",
+            "devreden": "4015",
+            "deger": "65",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kırklareli",
+            "cikan": "6981",
+            "devreden": "4491",
+            "deger": "61",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kemalpaşa",
+            "cikan": "7107",
+            "devreden": "4437",
+            "deger": "62",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Lüleburgaz",
+            "cikan": "7485",
+            "devreden": "4528",
+            "deger": "62",
+            "bolge": "2"
+        },
+        {
+            "yerler": "KDZ.Ereğli",
+            "cikan": "8357",
+            "devreden": "3988",
+            "deger": "68",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Ayvalık",
+            "cikan": "5759",
+            "devreden": "6893",
+            "deger": "46",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Doğubayazıt",
+            "cikan": "4754",
+            "devreden": "7992",
+            "deger": "37",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Bartın",
+            "cikan": "9129",
+            "devreden": "3681",
+            "deger": "71",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Körfez",
+            "cikan": "6850",
+            "devreden": "6042",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Amasya",
+            "cikan": "8034",
+            "devreden": "4891",
+            "deger": "62",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Karabük",
+            "cikan": "8605",
+            "devreden": "4376",
+            "deger": "66",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Bingöl",
+            "cikan": "7542",
+            "devreden": "5488",
+            "deger": "58",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Menderes",
+            "cikan": "5564",
+            "devreden": "7534",
+            "deger": "42",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Iğdır",
+            "cikan": "6702",
+            "devreden": "6807",
+            "deger": "50",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Siverek",
+            "cikan": "7172",
+            "devreden": "6387",
+            "deger": "53",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Polatlı",
+            "cikan": "7483",
+            "devreden": "6158",
+            "deger": "55",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Reyhanlı",
+            "cikan": "5305",
+            "devreden": "8355",
+            "deger": "39",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Şırnak",
+            "cikan": "8246",
+            "devreden": "5436",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Kars",
+            "cikan": "8787",
+            "devreden": "4897",
+            "deger": "64",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Burdur",
+            "cikan": "7255",
+            "devreden": "6486",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kırşehir",
+            "cikan": "9964",
+            "devreden": "3797",
+            "deger": "72",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Kastamonu",
+            "cikan": "9021",
+            "devreden": "4782",
+            "deger": "65",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Elbistan",
+            "cikan": "6790",
+            "devreden": "7039",
+            "deger": "49",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ödemiş",
+            "cikan": "7889",
+            "devreden": "6208",
+            "deger": "56",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Gölbaşı(Ankara)",
+            "cikan": "7679",
+            "devreden": "6579",
+            "deger": "54",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Gemlik",
+            "cikan": "8661",
+            "devreden": "6044",
+            "deger": "59",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Giresun",
+            "cikan": "10401",
+            "devreden": "4349",
+            "deger": "71",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Ereğli(Konya)",
+            "cikan": "8342",
+            "devreden": "6476",
+            "deger": "56",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Rize",
+            "cikan": "8867",
+            "devreden": "6068",
+            "deger": "59",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Cizre",
+            "cikan": "6053",
+            "devreden": "8971",
+            "deger": "40",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Serik",
+            "cikan": "6749",
+            "devreden": "8914",
+            "deger": "43",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Erzincan",
+            "cikan": "10365",
+            "devreden": "5337",
+            "deger": "66",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Ceyhan",
+            "cikan": "8889",
+            "devreden": "7158",
+            "deger": "55",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Muğla",
+            "cikan": "10713",
+            "devreden": "5347",
+            "deger": "67",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Silifke",
+            "cikan": "8666",
+            "devreden": "7569",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Aliağa",
+            "cikan": "11432",
+            "devreden": "4872",
+            "deger": "70",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Söke",
+            "cikan": "8475",
+            "devreden": "7837",
+            "deger": "52",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Gölcük",
+            "cikan": "7078",
+            "devreden": "9368",
+            "deger": "43",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Nizip",
+            "cikan": "6724",
+            "devreden": "9928",
+            "deger": "40",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Muş",
+            "cikan": "8913",
+            "devreden": "7744",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Siirt",
+            "cikan": "9611",
+            "devreden": "7131",
+            "deger": "57",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Çarşamba",
+            "cikan": "10376",
+            "devreden": "6526",
+            "deger": "61",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kızıltepe",
+            "cikan": "10249",
+            "devreden": "6705",
+            "deger": "60",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Ağrı",
+            "cikan": "8143",
+            "devreden": "8836",
+            "deger": "48",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Viranşehir",
+            "cikan": "9195",
+            "devreden": "7797",
+            "deger": "54",
+            "bolge": "3"
+        },
+        {
+            "yerler": "Dörtyol",
+            "cikan": "7406",
+            "devreden": "9662",
+            "deger": "43",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Menemen",
+            "cikan": "9055",
+            "devreden": "8317",
+            "deger": "52",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kilis",
+            "cikan": "8265",
+            "devreden": "10109",
+            "deger": "45",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Akhisar",
+            "cikan": "9311",
+            "devreden": "9066",
+            "deger": "51",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Bandırma",
+            "cikan": "10107",
+            "devreden": "8375",
+            "deger": "55",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Milas",
+            "cikan": "10088",
+            "devreden": "8911",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Bolu",
+            "cikan": "11465",
+            "devreden": "7735",
+            "deger": "60",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Salihli",
+            "cikan": "10165",
+            "devreden": "9226",
+            "deger": "52",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Niğde",
+            "cikan": "11900",
+            "devreden": "7537",
+            "deger": "61",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Nevşehir",
+            "cikan": "12829",
+            "devreden": "6722",
+            "deger": "66",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Turgutlu",
+            "cikan": "9939",
+            "devreden": "10136",
+            "deger": "50",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Didim(Yenihisar)",
+            "cikan": "7584",
+            "devreden": "12661",
+            "deger": "37",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Zonguldak",
+            "cikan": "13145",
+            "devreden": "7299",
+            "deger": "64",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Marmaris",
+            "cikan": "9158",
+            "devreden": "11838",
+            "deger": "44",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Torbalı",
+            "cikan": "9862",
+            "devreden": "11552",
+            "deger": "46",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Tokat",
+            "cikan": "12876",
+            "devreden": "8958",
+            "deger": "59",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Ordu",
+            "cikan": "14562",
+            "devreden": "7415",
+            "deger": "66",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Erdemli",
+            "cikan": "11058",
+            "devreden": "11219",
+            "deger": "50",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kırıkkale",
+            "cikan": "12926",
+            "devreden": "9373",
+            "deger": "58",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Mardin",
+            "cikan": "14538",
+            "devreden": "8688",
+            "deger": "63",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Karaman",
+            "cikan": "15094",
+            "devreden": "9397",
+            "deger": "62",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Beykoz",
+            "cikan": "11578",
+            "devreden": "12960",
+            "deger": "47",
+            "bolge": "1"
+        },
+        {
+            "yerler": "İnegöl",
+            "cikan": "11985",
+            "devreden": "12783",
+            "deger": "48",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Adıyaman",
+            "cikan": "13528",
+            "devreden": "11623",
+            "deger": "54",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kütahya",
+            "cikan": "14540",
+            "devreden": "10864",
+            "deger": "57",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Edremit",
+            "cikan": "11387",
+            "devreden": "15229",
+            "deger": "43",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Çanakkale",
+            "cikan": "15126",
+            "devreden": "12474",
+            "deger": "55",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Çorum",
+            "cikan": "16961",
+            "devreden": "10921",
+            "deger": "61",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Kuşadası",
+            "cikan": "12065",
+            "devreden": "15914",
+            "deger": "43",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Fethiye",
+            "cikan": "16225",
+            "devreden": "11896",
+            "deger": "58",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Edirne",
+            "cikan": "14494",
+            "devreden": "13895",
+            "deger": "51",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Silivri",
+            "cikan": "13924",
+            "devreden": "14600",
+            "deger": "49",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Sivas",
+            "cikan": "19511",
+            "devreden": "9311",
+            "deger": "68",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Yalova",
+            "cikan": "18085",
+            "devreden": "11570",
+            "deger": "61",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Tekirdağ",
+            "cikan": "19166",
+            "devreden": "10504",
+            "deger": "65",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Çerkezköy",
+            "cikan": "15183",
+            "devreden": "14719",
+            "deger": "51",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Uşak",
+            "cikan": "16659",
+            "devreden": "13886",
+            "deger": "55",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Afyonkarahisar",
+            "cikan": "17163",
+            "devreden": "13431",
+            "deger": "56",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Trabzon",
+            "cikan": "17739",
+            "devreden": "13187",
+            "deger": "57",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Nazilli",
+            "cikan": "14098",
+            "devreden": "17111",
+            "deger": "45",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Isparta",
+            "cikan": "19551",
+            "devreden": "12695",
+            "deger": "61",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Aksaray",
+            "cikan": "17947",
+            "devreden": "15201",
+            "deger": "54",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Bodrum",
+            "cikan": "16811",
+            "devreden": "16344",
+            "deger": "51",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Düzce",
+            "cikan": "16366",
+            "devreden": "17534",
+            "deger": "48",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Erzurum",
+            "cikan": "19995",
+            "devreden": "15135",
+            "deger": "57",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Elazığ",
+            "cikan": "19249",
+            "devreden": "16476",
+            "deger": "54",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Osmaniye",
+            "cikan": "19143",
+            "devreden": "17122",
+            "deger": "53",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Balıkesir",
+            "cikan": "19729",
+            "devreden": "18350",
+            "deger": "52",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Manavgat",
+            "cikan": "21094",
+            "devreden": "17977",
+            "deger": "54",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Tarsus",
+            "cikan": "14179",
+            "devreden": "25317",
+            "deger": "36",
+            "bolge": "2"
+        },
+        {
+            "yerler": "İskenderun",
+            "cikan": "20223",
+            "devreden": "25671",
+            "deger": "44",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Çorlu",
+            "cikan": "22848",
+            "devreden": "23162",
+            "deger": "50",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Manisa",
+            "cikan": "26654",
+            "devreden": "22894",
+            "deger": "54",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Hatay",
+            "cikan": "22410",
+            "devreden": "27826",
+            "deger": "45",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Batman",
+            "cikan": "25274",
+            "devreden": "27311",
+            "deger": "48",
+            "bolge": "2"
+        },
+        {
+            "yerler": "Alanya",
+            "cikan": "25553",
+            "devreden": "27555",
+            "deger": "48",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Kahramanmaraş",
+            "cikan": "29012",
+            "devreden": "24518",
+            "deger": "54",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Van",
+            "cikan": "25298",
+            "devreden": "28866",
+            "deger": "47",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Malatya",
+            "cikan": "30780",
+            "devreden": "24269",
+            "deger": "56",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Aydın",
+            "cikan": "30925",
+            "devreden": "25451",
+            "deger": "55",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Sakarya",
+            "cikan": "33329",
+            "devreden": "25844",
+            "deger": "56",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Karşıyaka",
+            "cikan": "24003",
+            "devreden": "38308",
+            "deger": "39",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Kocaeli",
+            "cikan": "38034",
+            "devreden": "38218",
+            "deger": "50",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Gebze",
+            "cikan": "34002",
+            "devreden": "46966",
+            "deger": "42",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Denizli",
+            "cikan": "43734",
+            "devreden": "37460",
+            "deger": "54",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Samsun",
+            "cikan": "41131",
+            "devreden": "41657",
+            "deger": "50",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Ankara",
+            "cikan": "35024",
+            "devreden": "49114",
+            "deger": "42",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Şanlıurfa",
+            "cikan": "39801",
+            "devreden": "53719",
+            "deger": "43",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Eskişehir",
+            "cikan": "57841",
+            "devreden": "51001",
+            "deger": "53",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Kayseri",
+            "cikan": "59948",
+            "devreden": "62608",
+            "deger": "49",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Mersin",
+            "cikan": "64138",
+            "devreden": "89964",
+            "deger": "42",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Konya",
+            "cikan": "69002",
+            "devreden": "85353",
+            "deger": "45",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Gaziosmanpaşa",
+            "cikan": "48016",
+            "devreden": "107153",
+            "deger": "31",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Diyarbakır",
+            "cikan": "71918",
+            "devreden": "106489",
+            "deger": "40",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Büyükçekmece",
+            "cikan": "51804",
+            "devreden": "133413",
+            "deger": "28",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Adana",
+            "cikan": "87024",
+            "devreden": "114103",
+            "deger": "43",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Küçükçekmece",
+            "cikan": "66120",
+            "devreden": "136688",
+            "deger": "33",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Antalya",
+            "cikan": "111646",
+            "devreden": "119266",
+            "deger": "48",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Bursa",
+            "cikan": "114972",
+            "devreden": "133067",
+            "deger": "46",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Gaziantep",
+            "cikan": "92400",
+            "devreden": "183941",
+            "deger": "33",
+            "bolge": "1"
+        },
+        {
+            "yerler": "İzmir",
+            "cikan": "139698",
+            "devreden": "180034",
+            "deger": "44",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Bakırköy",
+            "cikan": "132149",
+            "devreden": "230044",
+            "deger": "36",
+            "bolge": "1"
+        },
+        {
+            "yerler": "Ankara",
+            "cikan": "219730",
+            "devreden": "338795",
+            "deger": "39",
+            "bolge": "1"
+        },
+        {
+            "yerler": "İstanbul",
+            "cikan": "221098",
+            "devreden": "403330",
+            "deger": "35",
+            "bolge": "1"
+        },
+        {
+            "yerler": "İstanbul",
+            "cikan": "221352",
+            "devreden": "406191",
+            "deger": "35",
+            "bolge": "1"
+        }
+    ]

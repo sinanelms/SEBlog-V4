@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Veritabanı</title>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.css"/>
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.js"></script>
+</head>
+<body style="margin:0;background-image:url(/static/background.jpg);">
+
+ <div class="container">
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">SEBlog</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a class="nav-link" href="/adli">Adli Veri</a></li>
+            <li><a class="nav-link" href="/maps">Haritalar</a></li>
+            <li><a class="nav-link" href="/resimler">Resimler</a></li>
+            <li><a class="nav-link" href="/iletisim">İletişim</a></li>
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+ </div>
+<hr><br>
+
+    
+
+
+    
+    
+    <div class="table table-responsive container">
+    
+    
+        
+        <table id="example" class="table  table-bordered table-bordered">
+                
+                
+            <thead>
+                   
+
+                <tr>
+                    <th width="1">İd</th>
+                    <th width="30">Mahal</th>
+                    <th width="2">Bölge</th>
+                    <th width="10">Teşkilatı</th>
+                    <th width="35">Acm</th>
+                    <th width="15">İli</th>
+                </tr>
+            </thead>
+            <tfoot>
+                
+            </tfoot>
+            <tbody >
+                    
+                {% for article in articles %}
+              <tr>
+                <td style="white-space: nowrap; text-overflow:ellipsis; overflow: hidden; max-width:0.4px;"><strong>{{article.no}}</strong></td>                 
+                <td style="white-space: nowrap; text-overflow:ellipsis; overflow: hidden; max-width:1px;"><strong>{{article.yerler}}</strong></td>
+                <td style="white-space: nowrap; text-overflow:ellipsis; overflow: hidden; max-width:1px;"><strong>{{article.bolge}}</strong></td>
+                <td style="white-space: nowrap; text-overflow:ellipsis; overflow: hidden; max-width:1px;"><strong>{{article.teskilati}}</strong></td>
+                <td style="white-space: nowrap; text-overflow:ellipsis; overflow: hidden; max-width:1px;"><strong>{{article.acm}}</strong></td>
+                <td style="white-space: nowrap; text-overflow:ellipsis; overflow: hidden; max-width:1px;"><strong>{{article.ili}}</strong></td>
+                
+              </tr>
+              {% endfor %} 	
+                
+            </tbody>
+        </table>
+        <small><b>*</b> Tablo ekranda tam görünmüyorsa sayfayı yenileyiniz.</small>
+        </div>
+    
+	
+  
+    
+</div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#example').DataTable( {          
+            "language": {
+                "lengthMenu": "_MENU_ Listede kaç adet gözüksün?",
+                "zeroRecords": "Bişey Bulamadım",
+                "info": "Şu an _PAGE_. sayfadasınız. Toplam _PAGES_ adet sayfa var.",
+                "infoEmpty": "Kayıt yok",
+                "infoFiltered": "(filtered from _MAX_ total records)",
+                "search": "Ara",
+                "paginate": { "next": "Sonraki", "previous": "Önceki"},
+                "pageLength":{"_":"%d öğe göster","-1":"Hepsi"}
+            }
+            
+        } 
+        );
+    } );
+    
+    
+      
+    </script>
+
+
+
+    
+<style> 
+        table{
+            width:100%;
+            table-layout: fixed;
+          } 
+      
+        
+        
+        th{
+          padding: 15px;
+          border-bottom: 5px solid rgb(218, 29, 29);
+          background-color: #70db56
+        }
+        
+
+        table tr:nth-child(odd) {background-color: #a4f0f0;}
+        table tr:nth-child(even) {background-color: #5590c0;}
+        
+        
+        table tr:hover {background-color: rgba(255, 38, 0, 0.534);}
+        
+
+      
+    </style>
+</body>
+
+</html>

@@ -1,0 +1,118 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/static/cssjs/css/bootstrap.min.css">
+    <!-- iletişim için-->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--yerlerjson-->
+
+    <!--Text-->
+    <link href="https://fonts.googleapis.com/css?family=Lora:700i" rel="stylesheet">
+  <!--Türkiye-->
+
+<link rel="stylesheet" type="text/css" href="/static/css/normalize.css">
+<link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+<script type="text/javascript" src="/static/js/raphael-min.js"></script>
+<script type="text/javascript" src="/static/js/paths.js"></script>
+<script type="text/javascript" src="/static/js/turkiye.js?v=123"></script>
+<script type="text/javascript" src="/static/js/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="/static/js/bilgi.js"></script>
+
+
+    <style>
+        body {
+          font-family: 'Lora', serif;
+
+        }
+
+
+    .tablesorter-pager .btn-group-sm .btn {
+      font-size: 1.2em; /* make pager arrows more visible */
+    }
+   
+      /* Center the loader */
+      #loader {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        z-index: 1;
+        width: 150px;
+        height: 150px;
+        margin: -75px 0 0 -75px;
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid #3498db;
+        width: 120px;
+        height: 120px;
+        -webkit-animation: spin 2s linear infinite;
+        animation: spin 2s linear infinite;
+      }
+
+      @-webkit-keyframes spin {
+        0% { -webkit-transform: rotate(0deg); }
+        100% { -webkit-transform: rotate(360deg); }
+      }
+
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+
+      /* Add animation to "page content" */
+      .animate-bottom {
+        position: relative;
+        -webkit-animation-name: animatebottom;
+        -webkit-animation-duration: 1s;
+        animation-name: animatebottom;
+        animation-duration: 1s
+      }
+
+      @-webkit-keyframes animatebottom {
+        from { bottom:-100px; opacity:0 }
+        to { bottom:0px; opacity:1 }
+      }
+
+      @keyframes animatebottom {
+        from{ bottom:-100px; opacity:0 }
+        to{ bottom:0; opacity:1 }
+      }
+
+      #myDiv {
+        display: none;
+        text-align: center;
+      }
+ </style>
+
+
+    <title>
+        SE Blog
+    </title>
+</head>
+<body >
+    {% include "includes/navbarsite.html" %}
+    <div class="container">
+        {% include "includes/messages.html" %}
+            {% block body %}
+
+
+
+            {% endblock body %}
+
+    </div>
+
+
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <script src="/static/cssjs/js/popper.min.js"></script>
+
+
+    <script src="/static/cssjs/js/bootstrap.min.js"></script>
+</body>
+</html>
