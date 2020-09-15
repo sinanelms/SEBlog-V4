@@ -39,6 +39,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.secret_key= "seblog"
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////C:/Users/WeLoo/Desktop/SEBlog-V2/yer.db' #C:/Users/WeLoo/Desktop/SEBlog-V2/yerr.db
 db = SQLAlchemy(app)
+#denme alanı
 
 #anasayfa
 @app.route("/")
